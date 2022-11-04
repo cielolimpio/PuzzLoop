@@ -1,0 +1,13 @@
+﻿  Cannon.cpp
+  Light.cpp
+  main.cpp
+C:\Users\saint\OneDrive\바탕 화면\PuzzLoop\PuzzLoop\main.cpp(83,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\saint\OneDrive\바탕 화면\PuzzLoop\PuzzLoop\main.cpp(84,25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\saint\OneDrive\바탕 화면\PuzzLoop\PuzzLoop\main.cpp(89,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\saint\OneDrive\바탕 화면\PuzzLoop\PuzzLoop\main.cpp(107,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\saint\OneDrive\바탕 화면\PuzzLoop\PuzzLoop\main.cpp(125,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Material.cpp
+  Path.cpp
+  Sphere.cpp
+  코드를 생성하고 있습니다...
+  PuzzLoop.vcxproj -> C:\Users\saint\OneDrive\바탕 화면\PuzzLoop\Debug\PuzzLoop.exe
